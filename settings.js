@@ -61,16 +61,16 @@ global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94714188730'] //ur number 
-global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.owner = ['201030693604'] //ur number 
+global.ownertag = '201030693604' //ur tag number
+global.botname = '📶 ᴢᴇʀᴏ ᴛᴡᴏ 📶' //ur bot name
+global.linkz = "https://chat.whatsapp.com/HM8bHOyD7cHDn82txihKNA" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/HM8bHOyD7cHDn82txihKNA" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/HM8bHOyD7cHDn82txihKNA' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "📶 ᴢᴇʀᴏ ᴛᴡᴏ📶" //ur sticker watermark packname
+global.author = "📶 ᴢᴇʀᴏ ᴛᴡᴏ📶" //ur sticker watermark author
 global.menumoji ="💖"
 global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
@@ -108,13 +108,13 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    admin: 'هاذي الميزه فقط للادمن!',
+    botAdmin: 'اعطني اشراف لتفعيل الامر!',
+    owner: 'هاذي الميزه فقط لصانعي!',
+    group: 'الميزه تشتغل فقط في القروبات!',
+    private: ' الميزه تشتغل فقط في الخاص!',
+    bot: 'الميزه فقط للبوت',
+    wait: 'جاري التحميل...',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
